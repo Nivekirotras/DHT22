@@ -28,7 +28,7 @@ while True:
     
     try:
     
-        result = sensor.sample(samples=2)
+        result = sensor.sample(samples=5)
         temp_c = result['temp_c']
         humidity = result['humidity']
         print('Temperature:', temp_c, 'C')
