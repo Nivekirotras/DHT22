@@ -17,7 +17,7 @@ BUCKET_NAME = ":partly_sunny: Room Temperatures"
 BUCKET_KEY = "Y8S95V3FKPTG"
 ACCESS_KEY = "ist_7bGDvezp6Hf1kU3zw1nWLxWyKQNKcAzo"
 SECONDS_BETWEEN_READS = 60
-TIMEOUC_SECS = 10
+TIMEOUT_SECS = 10
 # ---------------------------------
 
 
